@@ -28,8 +28,10 @@ Daily scheduled Claude Code session (a "trigger" on Claude Code for web)
 - **No `ANTHROPIC_API_KEY`**: the summary is written by Claude Code itself when
   the daily routine runs. The steps live in [`CLAUDE.md`](CLAUDE.md).
 - **Archive**: every day's digest is committed under [`archive/`](archive/).
-- **Email (optional)**: sent via SMTP only when `SMTP_USER`/`SMTP_PASS` are set;
-  otherwise the email step is skipped.
+- **Email (optional)**: sent via the [Resend](https://resend.com) HTTPS API when
+  `RESEND_API_KEY` is set (works even when only port 443 egress is allowed), or
+  via SMTP when `SMTP_USER`/`SMTP_PASS` are set; otherwise the email step is
+  skipped.
 
 ## Trigger the daily routine
 
@@ -45,7 +47,19 @@ To run it **on demand**, just start a session and give it the same prompt.
 
 ## Email setup (optional)
 
-Set these as environment variables in the environment (Settings → Environment):
+Set these as environment variables in the environment (Settings → Environment).
+
+**Option A — Resend (recommended)**: uses HTTPS, so it works under network
+policies that only allow port 443 egress.
+
+| Variable         | Purpose                                  | Default                |
+|------------------|-------------------------------------------|------------------------|
+| `RESEND_API_KEY` | API key from [resend.com](https://resend.com) (**required**) | — |
+| `MAIL_FROM`      | sender address                           | `onboarding@resend.dev` |
+| `MAIL_TO`        | recipient                                | `congcuong.cse@gmail.com` |
+
+**Option B — SMTP** (used only if `RESEND_API_KEY` is not set; requires the
+environment to allow outbound traffic on port 465/587):
 
 | Variable    | Purpose                                            | Default              |
 |-------------|----------------------------------------------------|----------------------|
@@ -55,8 +69,8 @@ Set these as environment variables in the environment (Settings → Environment)
 | `SMTP_HOST` | SMTP server                                        | `smtp.gmail.com`     |
 | `SMTP_PORT` | `465` (SSL) or `587` (STARTTLS)                    | `465`                |
 
-If `SMTP_USER`/`SMTP_PASS` are absent, `send_email.py` exits cleanly and the
-rest of the routine still runs.
+If neither `RESEND_API_KEY` nor `SMTP_USER`/`SMTP_PASS` are set,
+`send_email.py` exits cleanly and the rest of the routine still runs.
 
 ## Run locally
 
