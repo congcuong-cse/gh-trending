@@ -70,9 +70,9 @@ python src/send_email.py            # sends it if SMTP_* env vars are set
 
 ## Latest digest
 
-_The first scheduled run will populate this section._
+[2026-06-13](archive/2026-06-13.md)
 
 ## Archive
 
 <!-- newest first; updated automatically -->
-_No digests yet._
+- [2026-06-13](archive/2026-06-13.md)
