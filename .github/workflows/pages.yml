@@ -1,0 +1,58 @@
+name: Deploy GitHub Pages
+
+# Rebuilds the static site from archive/ on every push to the default branch
+# (i.e. whenever the daily routine commits a new digest) and deploys it to
+# GitHub Pages. Can also be run on demand from the Actions tab.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "archive/**"
+      - "src/build_site.py"
+      - ".github/workflows/pages.yml"
+      - "requirements.txt"
+  workflow_dispatch:
+
+# Permissions required by actions/deploy-pages.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment; cancel in-progress runs for newer commits.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build site
+        run: python src/build_site.py
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
