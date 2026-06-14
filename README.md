@@ -84,9 +84,10 @@ python src/send_email.py            # sends it if SMTP_* env vars are set
 
 ## Latest digest
 
-[2026-06-13](archive/2026-06-13.md)
+[2026-06-14](archive/2026-06-14.md)
 
 ## Archive
 
 <!-- newest first; updated automatically -->
+- [2026-06-14](archive/2026-06-14.md)
 - [2026-06-13](archive/2026-06-13.md)
