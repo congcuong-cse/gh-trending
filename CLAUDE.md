@@ -54,6 +54,13 @@ that daily routine, follow these steps exactly.
    git push
    ```
 
+7. **Publish (automatic)**: the push to `main` triggers the
+   `Deploy GitHub Pages` workflow (`.github/workflows/pages.yml`), which runs
+   `python src/build_site.py` and publishes the browsable site to
+   <https://congcuong-cse.github.io/gh-trending/>. You don't need to build or
+   commit the site yourself — it's regenerated from `archive/` in CI, and the
+   generated `site/` directory is gitignored.
+
 ## Style rules
 
 - Concise, skimmable, no marketing fluff. 1–2 sentences per repo.
