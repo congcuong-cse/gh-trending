@@ -1,14 +1,14 @@
-# GitHub Trending - 2026-06-14
+# GitHub Trending - 2026-06-15
 
 | # | Repository | Language | Stars | Stars today | Description |
 |--:|------------|----------|------:|------------:|-------------|
-| 1 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 119,369 | +530 | Collection of publicly available IPTV channels from all over the world |
-| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 58,648 | +1,514 | Production-grade engineering skills for AI coding agents. |
-| 3 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 30,932 | +83 | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
-| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 227,115 | +924 | An agentic skills framework & software development methodology that works. |
-| 5 | [apple/container](https://github.com/apple/container) | Swift | 36,458 | +1,487 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
-| 6 | [music-assistant/server](https://github.com/music-assistant/server) | Python | 2,036 | +270 | Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. |
-| 7 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | Go | 2,433 | +190 | Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage! |
-| 8 | [LMCache/LMCache](https://github.com/LMCache/LMCache) | Python | 8,949 | +238 | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer |
-| 9 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C | 134,730 | +370 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
-| 10 | [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | Python | 14,177 | +127 | Simple, unified interface to multiple Generative AI providers |
+| 1 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 122,788 | +2,650 | Collection of publicly available IPTV channels from all over the world |
+| 2 | [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | Elixir | 8,214 | +35 | A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld] |
+| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 30,024 | +1,045 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| 4 | [meshery/meshery](https://github.com/meshery/meshery) | TypeScript | 10,605 | +227 | Meshery, the cloud native manager |
+| 5 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 31,642 | +431 | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
+| 6 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | Java | 126,864 | +95 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
+| 7 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 447,842 | +738 | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
+| 8 | [trycua/cua](https://github.com/trycua/cua) | HTML | 18,124 | +57 | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). |
+| 9 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | - | 352,269 | +352 | A complete computer science study plan to become a software engineer. |
+| 10 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 33,027 | +538 | Learn it. Build it. Ship it for others. |
