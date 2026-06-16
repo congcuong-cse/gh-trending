@@ -47,12 +47,29 @@ that daily routine, follow these steps exactly.
    python src/send_email.py     # sends it; skips cleanly if SMTP_* env vars are unset
    ```
 
-6. **Commit & push**:
+6. **Commit & push, then auto-merge to `main`**:
    ```bash
    git add archive/ data/ README.md
    git commit -m "Trending digest for <date>"
-   git push
+   BRANCH=$(git branch --show-current)
+   git push -u origin "$BRANCH"
    ```
+   If `BRANCH` is not `main`, immediately merge it into `main` in the same session:
+   ```bash
+   git fetch origin main
+   # Rebase our digest commit on top of any new main commits, resolving conflicts
+   # (data/today.* always take our version; README.md archive list needs both dates)
+   git rebase origin/main
+   git push --force-with-lease origin "$BRANCH"
+   # Fast-forward main to the rebased branch
+   git checkout main
+   git pull --ff-only origin main
+   git merge --ff-only "$BRANCH"
+   git push origin main
+   ```
+   Conflict resolution during rebase: `data/today.json` and `data/today.md` always keep **our** (today's) version; `README.md` needs both dates in the archive (newest first). After resolving, `git add` the files and `git rebase --continue`.
+
+   This ensures every digest lands on `main` in the same session, triggering the Pages deploy automatically without manual intervention.
 
 7. **Publish (automatic)**: the push to `main` triggers the
    `Deploy GitHub Pages` workflow (`.github/workflows/pages.yml`), which runs
