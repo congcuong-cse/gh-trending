@@ -1,106 +1,106 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "source": "https://github.com/trending",
   "repos": [
     {
       "rank": 1,
-      "name": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "stars": 8147,
-      "forks": 623,
-      "stars_today": 1055
-    },
-    {
-      "rank": 2,
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "stars": 24049,
-      "forks": 2269,
-      "stars_today": 1516
-    },
-    {
-      "rank": 3,
       "name": "palmier-io/palmier-pro",
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars": 1814,
-      "forks": 183,
-      "stars_today": 749
+      "stars": 3237,
+      "forks": 270,
+      "stars_today": 904
     },
     {
-      "rank": 4,
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "stars": 57191,
-      "forks": 9135,
-      "stars_today": 300
+      "rank": 2,
+      "name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars": 51352,
+      "forks": 3296,
+      "stars_today": 424
     },
     {
-      "rank": 5,
-      "name": "aishwaryanr/awesome-generative-ai-guide",
-      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
-      "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
-      "language": "HTML",
-      "stars": 27592,
-      "forks": 5738,
-      "stars_today": 155
-    },
-    {
-      "rank": 6,
-      "name": "BuilderIO/agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agent-native applications.",
-      "language": "TypeScript",
-      "stars": 1008,
-      "forks": 116,
-      "stars_today": 210
-    },
-    {
-      "rank": 7,
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "stars": 38473,
-      "forks": 2622,
-      "stars_today": 3938
-    },
-    {
-      "rank": 8,
+      "rank": 3,
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars": 6233,
-      "forks": 1078,
-      "stars_today": 236
+      "stars": 6989,
+      "forks": 1147,
+      "stars_today": 677
+    },
+    {
+      "rank": 4,
+      "name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "language": "Rust",
+      "stars": 20284,
+      "forks": 1040,
+      "stars_today": 774
+    },
+    {
+      "rank": 5,
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars": 9269,
+      "forks": 702,
+      "stars_today": 1267
+    },
+    {
+      "rank": 6,
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 24501,
+      "forks": 2322,
+      "stars_today": 432
+    },
+    {
+      "rank": 7,
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "stars": 50831,
+      "forks": 7413,
+      "stars_today": 140
+    },
+    {
+      "rank": 8,
+      "name": "Kong/insomnia",
+      "url": "https://github.com/Kong/insomnia",
+      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "language": "TypeScript",
+      "stars": 39298,
+      "forks": 2324,
+      "stars_today": 327
     },
     {
       "rank": 9,
-      "name": "zai-org/GLM-5",
-      "url": "https://github.com/zai-org/GLM-5",
-      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
-      "language": "",
-      "stars": 4541,
-      "forks": 460,
-      "stars_today": 478
+      "name": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
+      "language": "Rust",
+      "stars": 54588,
+      "forks": 10857,
+      "stars_today": 2398
     },
     {
       "rank": 10,
-      "name": "withastro/flue",
-      "url": "https://github.com/withastro/flue",
-      "description": "The sandbox agent framework.",
-      "language": "TypeScript",
-      "stars": 5812,
-      "forks": 323,
-      "stars_today": 305
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 41702,
+      "forks": 2861,
+      "stars_today": 3786
     }
   ]
 }

@@ -105,11 +105,12 @@ also trigger a deploy manually from the **Actions** tab (`Run workflow`).
 
 ## Latest digest
 
-[2026-06-19](archive/2026-06-19.md)
+[2026-06-20](archive/2026-06-20.md)
 
 ## Archive
 
 <!-- newest first; updated automatically -->
+- [2026-06-20](archive/2026-06-20.md)
 - [2026-06-19](archive/2026-06-19.md)
 - [2026-06-18](archive/2026-06-18.md)
 - [2026-06-17](archive/2026-06-17.md)
