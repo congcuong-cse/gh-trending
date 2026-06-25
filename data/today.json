@@ -1,106 +1,106 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "source": "https://github.com/trending",
   "repos": [
     {
       "rank": 1,
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "language": "Python",
-      "stars": 19163,
-      "forks": 2178,
-      "stars_today": 3703
-    },
-    {
-      "rank": 2,
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars": 48407,
-      "forks": 42937,
-      "stars_today": 1461
-    },
-    {
-      "rank": 3,
-      "name": "apple/container",
-      "url": "https://github.com/apple/container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "language": "Swift",
-      "stars": 42121,
-      "forks": 1231,
-      "stars_today": 1746
-    },
-    {
-      "rank": 4,
-      "name": "interviewstreet/hiring-agent",
-      "url": "https://github.com/interviewstreet/hiring-agent",
-      "description": "AI agent to evaluate and score resumes.",
-      "language": "Python",
-      "stars": 2101,
-      "forks": 593,
-      "stars_today": 152
-    },
-    {
-      "rank": 5,
-      "name": "JCodesMore/ai-website-cloner-template",
-      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "description": "Clone any website with one command using AI coding agents",
-      "language": "TypeScript",
-      "stars": 19247,
-      "forks": 2877,
-      "stars_today": 693
-    },
-    {
-      "rank": 6,
-      "name": "revfactory/harness",
-      "url": "https://github.com/revfactory/harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "language": "HTML",
-      "stars": 7705,
-      "forks": 1054,
-      "stars_today": 274
-    },
-    {
-      "rank": 7,
-      "name": "flutter/flutter",
-      "url": "https://github.com/flutter/flutter",
-      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "language": "Dart",
-      "stars": 177284,
-      "forks": 30544,
-      "stars_today": 200
-    },
-    {
-      "rank": 8,
-      "name": "andreknieriem/headunit-revived",
-      "url": "https://github.com/andreknieriem/headunit-revived",
-      "description": "Headunit App for displaying Android Auto",
-      "language": "Kotlin",
-      "stars": 1405,
-      "forks": 112,
-      "stars_today": 62
-    },
-    {
-      "rank": 9,
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "language": "TypeScript",
-      "stars": 6719,
-      "forks": 487,
-      "stars_today": 387
-    },
-    {
-      "rank": 10,
       "name": "google-labs-code/design.md",
       "url": "https://github.com/google-labs-code/design.md",
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
-      "stars": 17240,
-      "forks": 1564,
-      "stars_today": 504
+      "stars": 19043,
+      "forks": 1638,
+      "stars_today": 1407
+    },
+    {
+      "rank": 2,
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 21965,
+      "forks": 2466,
+      "stars_today": 3553
+    },
+    {
+      "rank": 3,
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars": 1796,
+      "forks": 292,
+      "stars_today": 201
+    },
+    {
+      "rank": 4,
+      "name": "mauriceboe/TREK",
+      "url": "https://github.com/mauriceboe/TREK",
+      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "language": "TypeScript",
+      "stars": 6581,
+      "forks": 602,
+      "stars_today": 112
+    },
+    {
+      "rank": 5,
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars": 43164,
+      "forks": 1266,
+      "stars_today": 1366
+    },
+    {
+      "rank": 6,
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "stars": 20355,
+      "forks": 3003,
+      "stars_today": 1021
+    },
+    {
+      "rank": 7,
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars": 2468,
+      "forks": 294,
+      "stars_today": 57
+    },
+    {
+      "rank": 8,
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars": 115750,
+      "forks": 17159,
+      "stars_today": 836
+    },
+    {
+      "rank": 9,
+      "name": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "language": "Python",
+      "stars": 1113,
+      "forks": 113,
+      "stars_today": 15
+    },
+    {
+      "rank": 10,
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": 21166,
+      "forks": 2440,
+      "stars_today": 600
     }
   ]
 }
