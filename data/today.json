@@ -1,106 +1,106 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "source": "https://github.com/trending",
   "repos": [
     {
       "rank": 1,
+      "name": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "stars": 12466,
+      "forks": 706,
+      "stars_today": 191
+    },
+    {
+      "rank": 2,
       "name": "google-labs-code/design.md",
       "url": "https://github.com/google-labs-code/design.md",
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
-      "stars": 19043,
-      "forks": 1638,
-      "stars_today": 1407
-    },
-    {
-      "rank": 2,
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "language": "Python",
-      "stars": 21965,
-      "forks": 2466,
-      "stars_today": 3553
+      "stars": 21141,
+      "forks": 1716,
+      "stars_today": 2319
     },
     {
       "rank": 3,
-      "name": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "name": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
-      "stars": 1796,
-      "forks": 292,
-      "stars_today": 201
+      "stars": 61765,
+      "forks": 11047,
+      "stars_today": 67
     },
     {
       "rank": 4,
+      "name": "kunchenguid/no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "stars": 3388,
+      "forks": 205,
+      "stars_today": 412
+    },
+    {
+      "rank": 5,
+      "name": "grafana/grafana",
+      "url": "https://github.com/grafana/grafana",
+      "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "language": "TypeScript",
+      "stars": 74872,
+      "forks": 14124,
+      "stars_today": 17
+    },
+    {
+      "rank": 6,
+      "name": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "stars": 123702,
+      "forks": 13050,
+      "stars_today": 137
+    },
+    {
+      "rank": 7,
+      "name": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "language": "Python",
+      "stars": 70368,
+      "forks": 5936,
+      "stars_today": 944
+    },
+    {
+      "rank": 8,
+      "name": "alchaincyf/zhangxuefeng-skill",
+      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "language": "",
+      "stars": 9239,
+      "forks": 2560,
+      "stars_today": 185
+    },
+    {
+      "rank": 9,
       "name": "mauriceboe/TREK",
       "url": "https://github.com/mauriceboe/TREK",
       "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
       "language": "TypeScript",
-      "stars": 6581,
-      "forks": 602,
-      "stars_today": 112
-    },
-    {
-      "rank": 5,
-      "name": "apple/container",
-      "url": "https://github.com/apple/container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "language": "Swift",
-      "stars": 43164,
-      "forks": 1266,
-      "stars_today": 1366
-    },
-    {
-      "rank": 6,
-      "name": "JCodesMore/ai-website-cloner-template",
-      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "description": "Clone any website with one command using AI coding agents",
-      "language": "TypeScript",
-      "stars": 20355,
-      "forks": 3003,
-      "stars_today": 1021
-    },
-    {
-      "rank": 7,
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
-      "stars": 2468,
-      "forks": 294,
-      "stars_today": 57
-    },
-    {
-      "rank": 8,
-      "name": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "language": "TypeScript",
-      "stars": 115750,
-      "forks": 17159,
-      "stars_today": 836
-    },
-    {
-      "rank": 9,
-      "name": "aws/agent-toolkit-for-aws",
-      "url": "https://github.com/aws/agent-toolkit-for-aws",
-      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "language": "Python",
-      "stars": 1113,
-      "forks": 113,
-      "stars_today": 15
+      "stars": 7608,
+      "forks": 646,
+      "stars_today": 1063
     },
     {
       "rank": 10,
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "stars": 21166,
-      "forks": 2440,
-      "stars_today": 600
+      "stars": 3071,
+      "forks": 451,
+      "stars_today": 1270
     }
   ]
 }
