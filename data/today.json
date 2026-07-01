@@ -1,106 +1,106 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "source": "https://github.com/trending",
   "repos": [
     {
       "rank": 1,
-      "name": "hasaneyldrm/exercises-dataset",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "language": "HTML",
-      "stars": 6454,
-      "forks": 777,
-      "stars_today": 1413
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 123235,
+      "forks": 20061,
+      "stars_today": 2097
     },
     {
       "rank": 2,
       "name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "description": "Open-source AI penetration testing tool to find and fix your app's vulnerabilities.",
       "language": "Python",
-      "stars": 28068,
-      "forks": 3121,
-      "stars_today": 395
+      "stars": 29588,
+      "forks": 3216,
+      "stars_today": 1195
     },
     {
       "rank": 3,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars": 120758,
-      "forks": 19735,
-      "stars_today": 1793
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "Vibe-Trading: Your Personal Trading Agent",
+      "language": "Python",
+      "stars": 16473,
+      "forks": 2799,
+      "stars_today": 682
     },
     {
       "rank": 4,
-      "name": "altic-dev/FluidVoice",
-      "url": "https://github.com/altic-dev/FluidVoice",
-      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
-      "language": "Swift",
-      "stars": 4883,
-      "forks": 300,
-      "stars_today": 586
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "language": "HTML",
+      "stars": 8336,
+      "forks": 944,
+      "stars_today": 2203
     },
     {
       "rank": 5,
+      "name": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 2538,
+      "forks": 129,
+      "stars_today": 714
+    },
+    {
+      "rank": 6,
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars": 8426,
-      "forks": 1391,
-      "stars_today": 459
-    },
-    {
-      "rank": 6,
-      "name": "browser-use/video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "language": "Python",
-      "stars": 12540,
-      "forks": 1602,
-      "stars_today": 722
+      "stars": 9468,
+      "forks": 1458,
+      "stars_today": 1012
     },
     {
       "rank": 7,
-      "name": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "name": "allenai/olmocr",
+      "url": "https://github.com/allenai/olmocr",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
       "language": "Python",
-      "stars": 7457,
-      "forks": 953,
-      "stars_today": 966
+      "stars": 18238,
+      "forks": 1502,
+      "stars_today": 295
     },
     {
       "rank": 8,
+      "name": "logto-io/logto",
+      "url": "https://github.com/logto-io/logto",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "language": "TypeScript",
+      "stars": 13226,
+      "forks": 902,
+      "stars_today": 131
+    },
+    {
+      "rank": 9,
+      "name": "togatoga/karukan",
+      "url": "https://github.com/togatoga/karukan",
+      "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+      "language": "Rust",
+      "stars": 564,
+      "forks": 33,
+      "stars_today": 29
+    },
+    {
+      "rank": 10,
       "name": "Mebus/cupp",
       "url": "https://github.com/Mebus/cupp",
       "description": "Common User Passwords Profiler (CUPP)",
       "language": "Python",
-      "stars": 6085,
-      "forks": 2046,
-      "stars_today": 61
-    },
-    {
-      "rank": 9,
-      "name": "ripienaar/free-for-dev",
-      "url": "https://github.com/ripienaar/free-for-dev",
-      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "language": "HTML",
-      "stars": 127287,
-      "forks": 13305,
-      "stars_today": 740
-    },
-    {
-      "rank": 10,
-      "name": "google/agents-cli",
-      "url": "https://github.com/google/agents-cli",
-      "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
-      "language": "Python",
-      "stars": 4136,
-      "forks": 451,
-      "stars_today": 433
+      "stars": 6232,
+      "forks": 2064,
+      "stars_today": 185
     }
   ]
 }
