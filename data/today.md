@@ -1,14 +1,14 @@
-# GitHub Trending - 2026-07-01
+# GitHub Trending - 2026-07-03
 
 | # | Repository | Language | Stars | Stars today | Description |
 |--:|------------|----------|------:|------------:|-------------|
-| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 123,235 | +2,097 | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
-| 2 | [usestrix/strix](https://github.com/usestrix/strix) | Python | 29,588 | +1,195 | Open-source AI penetration testing tool to find and fix your app's vulnerabilities. |
-| 3 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 16,473 | +682 | Vibe-Trading: Your Personal Trading Agent |
-| 4 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 8,336 | +2,203 | A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video. |
-| 5 | [facebook/astryx](https://github.com/facebook/astryx) | TypeScript | 2,538 | +714 | An open source design system that's fully customizable and agent ready |
-| 6 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | 9,468 | +1,012 | Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. |
-| 7 | [allenai/olmocr](https://github.com/allenai/olmocr) | Python | 18,238 | +295 | Toolkit for linearizing PDFs for LLM datasets/training |
-| 8 | [logto-io/logto](https://github.com/logto-io/logto) | TypeScript | 13,226 | +131 | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. |
-| 9 | [togatoga/karukan](https://github.com/togatoga/karukan) | Rust | 564 | +29 | Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine |
-| 10 | [Mebus/cupp](https://github.com/Mebus/cupp) | Python | 6,232 | +185 | Common User Passwords Profiler (CUPP) |
+| 1 | [usestrix/strix](https://github.com/usestrix/strix) | Python | 34,505 | +2,804 | Open-source AI penetration testing tool to find and fix your app's vulnerabilities. |
+| 2 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | 23,165 | +629 | Use Codex from Claude Code to review code or delegate tasks. |
+| 3 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | JavaScript | 82,864 | +2,851 | Claude Code skill that cuts 65% of tokens by talking like caveman |
+| 4 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | Java | 77,325 | +77 | Free and Open Source, Distributed, RESTful Search Engine |
+| 5 | [actions/checkout](https://github.com/actions/checkout) | TypeScript | 8,256 | +129 | Action for checking out a repo |
+| 6 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 45,462 | +404 | Chrome DevTools for coding agents |
+| 7 | [ansible/ansible](https://github.com/ansible/ansible) | Python | 69,182 | +50 | Radically simple IT automation platform for deployment and configuration management |
+| 8 | [facebook/astryx](https://github.com/facebook/astryx) | TypeScript | 4,543 | +943 | Open source design system that's fully customizable and agent ready |
+| 9 | [rommapp/romm](https://github.com/rommapp/romm) | Python | 9,781 | +236 | A beautiful, powerful, self-hosted rom manager and player. |
+| 10 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | Python | 26,129 | +792 | Machine Learning Systems |

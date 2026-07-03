@@ -1,106 +1,106 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-03",
   "source": "https://github.com/trending",
   "repos": [
     {
       "rank": 1,
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars": 123235,
-      "forks": 20061,
-      "stars_today": 2097
-    },
-    {
-      "rank": 2,
       "name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app's vulnerabilities.",
       "language": "Python",
-      "stars": 29588,
-      "forks": 3216,
-      "stars_today": 1195
+      "stars": 34505,
+      "forks": 3540,
+      "stars_today": 2804
+    },
+    {
+      "rank": 2,
+      "name": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "stars": 23165,
+      "forks": 1402,
+      "stars_today": 629
     },
     {
       "rank": 3,
-      "name": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "Vibe-Trading: Your Personal Trading Agent",
-      "language": "Python",
-      "stars": 16473,
-      "forks": 2799,
-      "stars_today": 682
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "JavaScript",
+      "stars": 82864,
+      "forks": 4621,
+      "stars_today": 2851
     },
     {
       "rank": 4,
-      "name": "hasaneyldrm/exercises-dataset",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "language": "HTML",
-      "stars": 8336,
-      "forks": 944,
-      "stars_today": 2203
+      "name": "elastic/elasticsearch",
+      "url": "https://github.com/elastic/elasticsearch",
+      "description": "Free and Open Source, Distributed, RESTful Search Engine",
+      "language": "Java",
+      "stars": 77325,
+      "forks": 25923,
+      "stars_today": 77
     },
     {
       "rank": 5,
-      "name": "facebook/astryx",
-      "url": "https://github.com/facebook/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
+      "name": "actions/checkout",
+      "url": "https://github.com/actions/checkout",
+      "description": "Action for checking out a repo",
       "language": "TypeScript",
-      "stars": 2538,
-      "forks": 129,
-      "stars_today": 714
+      "stars": 8256,
+      "forks": 2533,
+      "stars_today": 129
     },
     {
       "rank": 6,
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars": 9468,
-      "forks": 1458,
-      "stars_today": 1012
+      "stars": 45462,
+      "forks": 2953,
+      "stars_today": 404
     },
     {
       "rank": 7,
-      "name": "allenai/olmocr",
-      "url": "https://github.com/allenai/olmocr",
-      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "name": "ansible/ansible",
+      "url": "https://github.com/ansible/ansible",
+      "description": "Radically simple IT automation platform for deployment and configuration management",
       "language": "Python",
-      "stars": 18238,
-      "forks": 1502,
-      "stars_today": 295
+      "stars": 69182,
+      "forks": 24107,
+      "stars_today": 50
     },
     {
       "rank": 8,
-      "name": "logto-io/logto",
-      "url": "https://github.com/logto-io/logto",
-      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "name": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "description": "Open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars": 13226,
-      "forks": 902,
-      "stars_today": 131
+      "stars": 4543,
+      "forks": 266,
+      "stars_today": 943
     },
     {
       "rank": 9,
-      "name": "togatoga/karukan",
-      "url": "https://github.com/togatoga/karukan",
-      "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
-      "language": "Rust",
-      "stars": 564,
-      "forks": 33,
-      "stars_today": 29
+      "name": "rommapp/romm",
+      "url": "https://github.com/rommapp/romm",
+      "description": "A beautiful, powerful, self-hosted rom manager and player.",
+      "language": "Python",
+      "stars": 9781,
+      "forks": 471,
+      "stars_today": 236
     },
     {
       "rank": 10,
-      "name": "Mebus/cupp",
-      "url": "https://github.com/Mebus/cupp",
-      "description": "Common User Passwords Profiler (CUPP)",
+      "name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
       "language": "Python",
-      "stars": 6232,
-      "forks": 2064,
-      "stars_today": 185
+      "stars": 26129,
+      "forks": 3120,
+      "stars_today": 792
     }
   ]
 }
