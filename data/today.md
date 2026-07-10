@@ -1,14 +1,14 @@
-# GitHub Trending - 2026-07-03
+# GitHub Trending - 2026-07-10
 
 | # | Repository | Language | Stars | Stars today | Description |
 |--:|------------|----------|------:|------------:|-------------|
-| 1 | [usestrix/strix](https://github.com/usestrix/strix) | Python | 34,505 | +2,804 | Open-source AI penetration testing tool to find and fix your app's vulnerabilities. |
-| 2 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | 23,165 | +629 | Use Codex from Claude Code to review code or delegate tasks. |
-| 3 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | JavaScript | 82,864 | +2,851 | Claude Code skill that cuts 65% of tokens by talking like caveman |
-| 4 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | Java | 77,325 | +77 | Free and Open Source, Distributed, RESTful Search Engine |
-| 5 | [actions/checkout](https://github.com/actions/checkout) | TypeScript | 8,256 | +129 | Action for checking out a repo |
-| 6 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 45,462 | +404 | Chrome DevTools for coding agents |
-| 7 | [ansible/ansible](https://github.com/ansible/ansible) | Python | 69,182 | +50 | Radically simple IT automation platform for deployment and configuration management |
-| 8 | [facebook/astryx](https://github.com/facebook/astryx) | TypeScript | 4,543 | +943 | Open source design system that's fully customizable and agent ready |
-| 9 | [rommapp/romm](https://github.com/rommapp/romm) | Python | 9,781 | +236 | A beautiful, powerful, self-hosted rom manager and player. |
-| 10 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | Python | 26,129 | +792 | Machine Learning Systems |
+| 1 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | 7,237 | +349 | MCP server providing Claude with terminal control and file system capabilities. |
+| 2 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 94,178 | +307 | Incredibly fast JavaScript runtime, bundler, test runner, and package manager |
+| 3 | [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | C++ | 17,506 | +106 | Common libraries for C++ development. |
+| 4 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 76,770 | +1,114 | Production-grade engineering skills for AI coding agents. |
+| 5 | [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | C++ | 6,072 | +65 | YAML parser and emitter implementation. |
+| 6 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 164,536 | +1,663 | Configuration utilities designed for engineers. |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 251,743 | +969 | An agentic skills framework & software development methodology. |
+| 8 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | TypeScript | 109,760 | +166 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
+| 9 | [catchorg/Catch2](https://github.com/catchorg/Catch2) | C++ | 20,605 | +69 | Modern C++ testing framework supporting multiple C++ standards. |
+| 10 | [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) | C++ | 6,064 | +87 | Asio C++ Library for network and low-level I/O operations. |
