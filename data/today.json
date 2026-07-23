@@ -1,106 +1,106 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-23",
   "source": "https://github.com/trending",
   "repos": [
     {
       "rank": 1,
-      "name": "wonderwhy-er/DesktopCommanderMCP",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "description": "MCP server providing Claude with terminal control and file system capabilities.",
-      "language": "TypeScript",
-      "stars": 7237,
-      "forks": 921,
-      "stars_today": 349
+      "name": "block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": 6700,
+      "forks": 542,
+      "stars_today": 2460,
+      "url": "https://github.com/block/buzz"
     },
     {
       "rank": 2,
-      "name": "oven-sh/bun",
-      "url": "https://github.com/oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager",
-      "language": "Rust",
-      "stars": 94178,
-      "forks": 4938,
-      "stars_today": 307
+      "name": "koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": 71456,
+      "forks": 10788,
+      "stars_today": 3196,
+      "url": "https://github.com/koala73/worldmonitor"
     },
     {
       "rank": 3,
-      "name": "abseil/abseil-cpp",
-      "url": "https://github.com/abseil/abseil-cpp",
-      "description": "Common libraries for C++ development.",
-      "language": "C++",
-      "stars": 17506,
-      "forks": 3193,
-      "stars_today": 106
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 33012,
+      "forks": 5646,
+      "stars_today": 398,
+      "url": "https://github.com/shiyu-coder/Kronos"
     },
     {
       "rank": 4,
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars": 76770,
-      "forks": 8245,
-      "stars_today": 1114
+      "name": "Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": 8868,
+      "forks": 612,
+      "stars_today": 563,
+      "url": "https://github.com/Pumpkin-MC/Pumpkin"
     },
     {
       "rank": 5,
-      "name": "jbeder/yaml-cpp",
-      "url": "https://github.com/jbeder/yaml-cpp",
-      "description": "YAML parser and emitter implementation.",
-      "language": "C++",
-      "stars": 6072,
-      "forks": 2254,
-      "stars_today": 65
+      "name": "citrolabs/ego-lite",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "language": "JavaScript",
+      "stars": 1578,
+      "forks": 91,
+      "stars_today": 219,
+      "url": "https://github.com/citrolabs/ego-lite"
     },
     {
       "rank": 6,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Configuration utilities designed for engineers.",
-      "language": "Shell",
-      "stars": 164536,
-      "forks": 14157,
-      "stars_today": 1663
+      "name": "chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": 71071,
+      "forks": 7915,
+      "stars_today": 599,
+      "url": "https://github.com/chrislgarry/Apollo-11"
     },
     {
       "rank": 7,
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology.",
-      "language": "Shell",
-      "stars": 251743,
-      "forks": 22462,
-      "stars_today": 969
+      "name": "diegosouzapw/OmniRoute",
+      "description": "Free MIT AI gateway supporting 290+ providers and 500+ models with auto-fallback and token compression",
+      "language": "TypeScript",
+      "stars": 27055,
+      "forks": 3549,
+      "stars_today": 1925,
+      "url": "https://github.com/diegosouzapw/OmniRoute"
     },
     {
       "rank": 8,
-      "name": "microsoft/TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "language": "TypeScript",
-      "stars": 109760,
-      "forks": 13631,
-      "stars_today": 166
+      "name": "ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": 69384,
+      "forks": 7849,
+      "stars_today": 637,
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills"
     },
     {
       "rank": 9,
-      "name": "catchorg/Catch2",
-      "url": "https://github.com/catchorg/Catch2",
-      "description": "Modern C++ testing framework supporting multiple C++ standards.",
-      "language": "C++",
-      "stars": 20605,
-      "forks": 3406,
-      "stars_today": 69
+      "name": "earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "stars": 9946,
+      "forks": 1095,
+      "stars_today": 293,
+      "url": "https://github.com/earthtojake/text-to-cad"
     },
     {
       "rank": 10,
-      "name": "chriskohlhoff/asio",
-      "url": "https://github.com/chriskohlhoff/asio",
-      "description": "Asio C++ Library for network and low-level I/O operations.",
-      "language": "C++",
-      "stars": 6064,
-      "forks": 1499,
-      "stars_today": 87
+      "name": "agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars": 2335,
+      "forks": 324,
+      "stars_today": 315,
+      "url": "https://github.com/agegr/pi-web"
     }
   ]
 }
