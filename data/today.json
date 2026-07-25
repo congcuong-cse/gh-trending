@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "source": "https://github.com/trending",
   "repos": [
     {
@@ -7,100 +7,100 @@
       "name": "block/buzz",
       "description": "A hive mind communication platform",
       "language": "Rust",
-      "stars": 9816,
-      "forks": 759,
-      "stars_today": 3274,
+      "stars": 11801,
+      "forks": 937,
+      "stars_today": 2506,
       "url": "https://github.com/block/buzz"
     },
     {
       "rank": 2,
-      "name": "koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "stars": 73190,
-      "forks": 10978,
-      "stars_today": 2194,
-      "url": "https://github.com/koala73/worldmonitor"
+      "name": "alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 12904,
+      "forks": 885,
+      "stars_today": 439,
+      "url": "https://github.com/alibaba/open-code-review"
     },
     {
       "rank": 3,
-      "name": "ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "language": "Python",
-      "stars": 70010,
-      "forks": 7899,
-      "stars_today": 662,
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+      "name": "citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "stars": 3514,
+      "forks": 174,
+      "stars_today": 986,
+      "url": "https://github.com/citrolabs/ego-lite"
     },
     {
       "rank": 4,
-      "name": "Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "language": "Rust",
-      "stars": 9306,
-      "forks": 632,
-      "stars_today": 472,
-      "url": "https://github.com/Pumpkin-MC/Pumpkin"
+      "name": "ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": 70544,
+      "forks": 7936,
+      "stars_today": 574,
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills"
     },
     {
       "rank": 5,
-      "name": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "stars": 33466,
-      "forks": 5677,
-      "stars_today": 506,
-      "url": "https://github.com/shiyu-coder/Kronos"
+      "name": "anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": 49853,
+      "forks": 5895,
+      "stars_today": 144,
+      "url": "https://github.com/anthropics/claude-cookbooks"
     },
     {
       "rank": 6,
       "name": "Automattic/harper",
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
-      "stars": 13001,
-      "forks": 480,
-      "stars_today": 877,
+      "stars": 13390,
+      "forks": 506,
+      "stars_today": 503,
       "url": "https://github.com/Automattic/harper"
     },
     {
       "rank": 7,
-      "name": "likec4/likec4",
-      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-      "language": "TypeScript",
-      "stars": 4998,
-      "forks": 334,
-      "stars_today": 339,
-      "url": "https://github.com/likec4/likec4"
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 33764,
+      "forks": 5701,
+      "stars_today": 319,
+      "url": "https://github.com/shiyu-coder/Kronos"
     },
     {
       "rank": 8,
-      "name": "citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "language": "JavaScript",
-      "stars": 2503,
-      "forks": 120,
-      "stars_today": 884,
-      "url": "https://github.com/citrolabs/ego-lite"
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 261059,
+      "forks": 23299,
+      "stars_today": 507,
+      "url": "https://github.com/obra/superpowers"
     },
     {
       "rank": 9,
-      "name": "yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
-      "language": "Go",
-      "stars": 19525,
-      "forks": 595,
-      "stars_today": 312,
-      "url": "https://github.com/yorukot/superfile"
+      "name": "Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": 9687,
+      "forks": 654,
+      "stars_today": 357,
+      "url": "https://github.com/Pumpkin-MC/Pumpkin"
     },
     {
       "rank": 10,
-      "name": "ruvnet/RuView",
-      "description": "RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "stars": 85887,
-      "forks": 11446,
-      "stars_today": 1021,
-      "url": "https://github.com/ruvnet/RuView"
+      "name": "permissionlesstech/bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "language": "Swift",
+      "stars": 28647,
+      "forks": 4266,
+      "stars_today": 1695,
+      "url": "https://github.com/permissionlesstech/bitchat"
     }
   ]
 }
