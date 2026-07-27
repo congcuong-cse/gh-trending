@@ -1,106 +1,106 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-27",
   "source": "https://github.com/trending",
   "repos": [
     {
       "rank": 1,
-      "name": "block/buzz",
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "stars": 11801,
-      "forks": 937,
-      "stars_today": 2506,
-      "url": "https://github.com/block/buzz"
+      "name": "permissionlesstech/bitchat",
+      "language": "Swift",
+      "stars": 32178,
+      "forks": 5051,
+      "stars_today": 2344,
+      "description": "bluetooth mesh chat, IRC vibes",
+      "url": "https://github.com/permissionlesstech/bitchat"
     },
     {
       "rank": 2,
-      "name": "alibaba/open-code-review",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars": 12904,
-      "forks": 885,
-      "stars_today": 439,
-      "url": "https://github.com/alibaba/open-code-review"
+      "name": "amnezia-vpn/amnezia-client",
+      "language": "C++",
+      "stars": 13774,
+      "forks": 1028,
+      "stars_today": 515,
+      "description": "Amnezia VPN Client (Desktop+Mobile)",
+      "url": "https://github.com/amnezia-vpn/amnezia-client"
     },
     {
       "rank": 3,
-      "name": "citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "language": "JavaScript",
-      "stars": 3514,
-      "forks": 174,
-      "stars_today": 986,
-      "url": "https://github.com/citrolabs/ego-lite"
+      "name": "moeru-ai/airi",
+      "language": "TypeScript",
+      "stars": 43989,
+      "forks": 4391,
+      "stars_today": 554,
+      "description": "Self hosted, you-owned AI companion capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "url": "https://github.com/moeru-ai/airi"
     },
     {
       "rank": 4,
-      "name": "ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "language": "Python",
-      "stars": 70544,
-      "forks": 7936,
-      "stars_today": 574,
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+      "name": "opengeos/GeoLibre",
+      "language": "TypeScript",
+      "stars": 2625,
+      "forks": 350,
+      "stars_today": 420,
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. Runs in the browser, desktop, mobile, and Jupyter notebooks.",
+      "url": "https://github.com/opengeos/GeoLibre"
     },
     {
       "rank": 5,
-      "name": "anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "stars": 49853,
-      "forks": 5895,
-      "stars_today": 144,
-      "url": "https://github.com/anthropics/claude-cookbooks"
+      "name": "yorukot/superfile",
+      "language": "Go",
+      "stars": 20840,
+      "forks": 676,
+      "stars_today": 600,
+      "description": "Pretty fancy and modern terminal file manager",
+      "url": "https://github.com/yorukot/superfile"
     },
     {
       "rank": 6,
-      "name": "Automattic/harper",
-      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-      "language": "Rust",
-      "stars": 13390,
-      "forks": 506,
-      "stars_today": 503,
-      "url": "https://github.com/Automattic/harper"
+      "name": "NanmiCoder/MediaCrawler",
+      "language": "Python",
+      "stars": 58134,
+      "forks": 11579,
+      "stars_today": 349,
+      "description": "Crawler for Xiaohongshu, Douyin, Kuaishou, Bilibili, Weibo, Tieba, and Zhihu posts/comments.",
+      "url": "https://github.com/NanmiCoder/MediaCrawler"
     },
     {
       "rank": 7,
-      "name": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "stars": 33764,
-      "forks": 5701,
-      "stars_today": 319,
-      "url": "https://github.com/shiyu-coder/Kronos"
+      "name": "pbakaus/impeccable",
+      "language": "JavaScript",
+      "stars": 51482,
+      "forks": 3037,
+      "stars_today": 849,
+      "description": "The design language that makes your AI harness better at design.",
+      "url": "https://github.com/pbakaus/impeccable"
     },
     {
       "rank": 8,
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars": 261059,
-      "forks": 23299,
-      "stars_today": 507,
-      "url": "https://github.com/obra/superpowers"
+      "name": "shiyu-coder/Kronos",
+      "language": "Python",
+      "stars": 34540,
+      "forks": 5791,
+      "stars_today": 442,
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "url": "https://github.com/shiyu-coder/Kronos"
     },
     {
       "rank": 9,
-      "name": "Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "language": "Rust",
-      "stars": 9687,
-      "forks": 654,
-      "stars_today": 357,
-      "url": "https://github.com/Pumpkin-MC/Pumpkin"
+      "name": "alibaba/open-code-review",
+      "language": "Go",
+      "stars": 14733,
+      "forks": 995,
+      "stars_today": 980,
+      "description": "Open-source & free, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "url": "https://github.com/alibaba/open-code-review"
     },
     {
       "rank": 10,
-      "name": "permissionlesstech/bitchat",
-      "description": "bluetooth mesh chat, IRC vibes",
-      "language": "Swift",
-      "stars": 28647,
-      "forks": 4266,
-      "stars_today": 1695,
-      "url": "https://github.com/permissionlesstech/bitchat"
+      "name": "jenkinsci/jenkins",
+      "language": "Java",
+      "stars": 25870,
+      "forks": 9679,
+      "stars_today": 179,
+      "description": "Jenkins automation server",
+      "url": "https://github.com/jenkinsci/jenkins"
     }
   ]
 }

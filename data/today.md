@@ -1,14 +1,14 @@
-# GitHub Trending - 2026-07-25
+# GitHub Trending - 2026-07-27
 
 | # | Repository | Language | Stars | Stars today | Description |
 |--:|------------|----------|------:|------------:|-------------|
-| 1 | [block/buzz](https://github.com/block/buzz) | Rust | 11,801 | +2,506 | A hive mind communication platform |
-| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | 12,904 | +439 | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
-| 3 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | JavaScript | 3,514 | +986 | The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
-| 4 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Python | 70,544 | +574 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
-| 5 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Jupyter Notebook | 49,853 | +144 | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
-| 6 | [Automattic/harper](https://github.com/Automattic/harper) | Rust | 13,390 | +503 | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered |
-| 7 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 33,764 | +319 | Kronos: A Foundation Model for the Language of Financial Markets |
-| 8 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 261,059 | +507 | An agentic skills framework & software development methodology that works. |
-| 9 | [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | Rust | 9,687 | +357 | Empowering everyone to host fast and efficient Minecraft servers. |
-| 10 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | Swift | 28,647 | +1,695 | bluetooth mesh chat, IRC vibes |
+| 1 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | Swift | 32,178 | +2,344 | bluetooth mesh chat, IRC vibes |
+| 2 | [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | C++ | 13,774 | +515 | Amnezia VPN Client (Desktop+Mobile) |
+| 3 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 43,989 | +554 | Self hosted, you-owned AI companion capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| 4 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | TypeScript | 2,625 | +420 | A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. Runs in the browser, desktop, mobile, and Jupyter notebooks. |
+| 5 | [yorukot/superfile](https://github.com/yorukot/superfile) | Go | 20,840 | +600 | Pretty fancy and modern terminal file manager |
+| 6 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | 58,134 | +349 | Crawler for Xiaohongshu, Douyin, Kuaishou, Bilibili, Weibo, Tieba, and Zhihu posts/comments. |
+| 7 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 51,482 | +849 | The design language that makes your AI harness better at design. |
+| 8 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 34,540 | +442 | Kronos: A Foundation Model for the Language of Financial Markets |
+| 9 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | 14,733 | +980 | Open-source & free, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| 10 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | Java | 25,870 | +179 | Jenkins automation server |
