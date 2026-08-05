@@ -1,106 +1,106 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-08-05",
   "source": "https://github.com/trending",
   "repos": [
     {
       "rank": 1,
-      "name": "permissionlesstech/bitchat",
-      "language": "Swift",
-      "stars": 32178,
-      "forks": 5051,
-      "stars_today": 2344,
-      "description": "bluetooth mesh chat, IRC vibes",
-      "url": "https://github.com/permissionlesstech/bitchat"
+      "name": "cloudflare/computer",
+      "language": "TypeScript",
+      "stars": 2745,
+      "forks": 126,
+      "stars_today": 796,
+      "description": "Give your agent a computer 👾",
+      "url": "https://github.com/cloudflare/computer"
     },
     {
       "rank": 2,
-      "name": "amnezia-vpn/amnezia-client",
-      "language": "C++",
-      "stars": 13774,
-      "forks": 1028,
-      "stars_today": 515,
-      "description": "Amnezia VPN Client (Desktop+Mobile)",
-      "url": "https://github.com/amnezia-vpn/amnezia-client"
+      "name": "huangruiteng/loopx",
+      "language": "Python",
+      "stars": 2059,
+      "forks": 160,
+      "stars_today": 327,
+      "description": "Lightweight loop engineering state kernel for extended-duration AI agent teams with durable goals and executable todos.",
+      "url": "https://github.com/huangruiteng/loopx"
     },
     {
       "rank": 3,
-      "name": "moeru-ai/airi",
+      "name": "TencentCloud/TencentDB-Agent-Memory",
       "language": "TypeScript",
-      "stars": 43989,
-      "forks": 4391,
-      "stars_today": 554,
-      "description": "Self hosted, you-owned AI companion capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "url": "https://github.com/moeru-ai/airi"
+      "stars": 15002,
+      "forks": 1365,
+      "stars_today": 1891,
+      "description": "Team-level memory hub for AI Agents converting conversations and code into reusable memory assets.",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
     },
     {
       "rank": 4,
-      "name": "opengeos/GeoLibre",
-      "language": "TypeScript",
-      "stars": 2625,
-      "forks": 350,
-      "stars_today": 420,
-      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. Runs in the browser, desktop, mobile, and Jupyter notebooks.",
-      "url": "https://github.com/opengeos/GeoLibre"
+      "name": "donnemartin/system-design-primer",
+      "language": "Python",
+      "stars": 361477,
+      "forks": 57645,
+      "stars_today": 304,
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.",
+      "url": "https://github.com/donnemartin/system-design-primer"
     },
     {
       "rank": 5,
-      "name": "yorukot/superfile",
-      "language": "Go",
-      "stars": 20840,
-      "forks": 676,
-      "stars_today": 600,
-      "description": "Pretty fancy and modern terminal file manager",
-      "url": "https://github.com/yorukot/superfile"
+      "name": "firecrawl/pdf-inspector",
+      "language": "Rust",
+      "stars": 11364,
+      "forks": 755,
+      "stars_today": 1583,
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction.",
+      "url": "https://github.com/firecrawl/pdf-inspector"
     },
     {
       "rank": 6,
-      "name": "NanmiCoder/MediaCrawler",
-      "language": "Python",
-      "stars": 58134,
-      "forks": 11579,
-      "stars_today": 349,
-      "description": "Crawler for Xiaohongshu, Douyin, Kuaishou, Bilibili, Weibo, Tieba, and Zhihu posts/comments.",
-      "url": "https://github.com/NanmiCoder/MediaCrawler"
+      "name": "esengine/DeepSeek-Reasonix",
+      "language": "Go",
+      "stars": 31545,
+      "forks": 2027,
+      "stars_today": 747,
+      "description": "DeepSeek-native AI coding agent for your terminal.",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix"
     },
     {
       "rank": 7,
-      "name": "pbakaus/impeccable",
+      "name": "addyosmani/agent-skills",
       "language": "JavaScript",
-      "stars": 51482,
-      "forks": 3037,
-      "stars_today": 849,
-      "description": "The design language that makes your AI harness better at design.",
-      "url": "https://github.com/pbakaus/impeccable"
+      "stars": 81954,
+      "forks": 8819,
+      "stars_today": 203,
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "url": "https://github.com/addyosmani/agent-skills"
     },
     {
       "rank": 8,
-      "name": "shiyu-coder/Kronos",
-      "language": "Python",
-      "stars": 34540,
-      "forks": 5791,
-      "stars_today": 442,
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "url": "https://github.com/shiyu-coder/Kronos"
+      "name": "obra/superpowers",
+      "language": "Shell",
+      "stars": 267300,
+      "forks": 23900,
+      "stars_today": 931,
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers"
     },
     {
       "rank": 9,
-      "name": "alibaba/open-code-review",
-      "language": "Go",
-      "stars": 14733,
-      "forks": 995,
-      "stars_today": 980,
-      "description": "Open-source & free, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "url": "https://github.com/alibaba/open-code-review"
+      "name": "roboflow/supervision",
+      "language": "Python",
+      "stars": 48891,
+      "forks": 4617,
+      "stars_today": 132,
+      "description": "We write your reusable computer vision tools.",
+      "url": "https://github.com/roboflow/supervision"
     },
     {
       "rank": 10,
-      "name": "jenkinsci/jenkins",
-      "language": "Java",
-      "stars": 25870,
-      "forks": 9679,
-      "stars_today": 179,
-      "description": "Jenkins automation server",
-      "url": "https://github.com/jenkinsci/jenkins"
+      "name": "vercel/next.js",
+      "language": "JavaScript",
+      "stars": 141530,
+      "forks": 31679,
+      "stars_today": 144,
+      "description": "The React Framework",
+      "url": "https://github.com/vercel/next.js"
     }
   ]
 }

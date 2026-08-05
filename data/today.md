@@ -1,14 +1,14 @@
-# GitHub Trending - 2026-07-27
+# GitHub Trending - 2026-08-05
 
 | # | Repository | Language | Stars | Stars today | Description |
 |--:|------------|----------|------:|------------:|-------------|
-| 1 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | Swift | 32,178 | +2,344 | bluetooth mesh chat, IRC vibes |
-| 2 | [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | C++ | 13,774 | +515 | Amnezia VPN Client (Desktop+Mobile) |
-| 3 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 43,989 | +554 | Self hosted, you-owned AI companion capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
-| 4 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | TypeScript | 2,625 | +420 | A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. Runs in the browser, desktop, mobile, and Jupyter notebooks. |
-| 5 | [yorukot/superfile](https://github.com/yorukot/superfile) | Go | 20,840 | +600 | Pretty fancy and modern terminal file manager |
-| 6 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | 58,134 | +349 | Crawler for Xiaohongshu, Douyin, Kuaishou, Bilibili, Weibo, Tieba, and Zhihu posts/comments. |
-| 7 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 51,482 | +849 | The design language that makes your AI harness better at design. |
-| 8 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 34,540 | +442 | Kronos: A Foundation Model for the Language of Financial Markets |
-| 9 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | 14,733 | +980 | Open-source & free, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
-| 10 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | Java | 25,870 | +179 | Jenkins automation server |
+| 1 | [cloudflare/computer](https://github.com/cloudflare/computer) | TypeScript | 2,745 | +796 | Give your agent a computer 👾 |
+| 2 | [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | Python | 2,059 | +327 | Lightweight loop engineering state kernel for extended-duration AI agent teams with durable goals and executable todos. |
+| 3 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 15,002 | +1,891 | Team-level memory hub for AI Agents converting conversations and code into reusable memory assets. |
+| 4 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | 361,477 | +304 | Learn how to design large-scale systems. Prep for the system design interview. |
+| 5 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | 11,364 | +1,583 | Fast Rust library for PDF inspection, classification, and text extraction. |
+| 6 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | Go | 31,545 | +747 | DeepSeek-native AI coding agent for your terminal. |
+| 7 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 81,954 | +203 | Production-grade engineering skills for AI coding agents. |
+| 8 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 267,300 | +931 | An agentic skills framework & software development methodology that works. |
+| 9 | [roboflow/supervision](https://github.com/roboflow/supervision) | Python | 48,891 | +132 | We write your reusable computer vision tools. |
+| 10 | [vercel/next.js](https://github.com/vercel/next.js) | JavaScript | 141,530 | +144 | The React Framework |
