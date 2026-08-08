@@ -1,106 +1,106 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-08",
   "source": "https://github.com/trending",
   "repos": [
     {
       "rank": 1,
-      "name": "cloudflare/computer",
+      "name": "PrimeIntellect-ai/prime-agent",
       "language": "TypeScript",
-      "stars": 2745,
-      "forks": 126,
-      "stars_today": 796,
-      "description": "Give your agent a computer 👾",
-      "url": "https://github.com/cloudflare/computer"
+      "stars": 8751,
+      "forks": 803,
+      "stars_today": 2483,
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent"
     },
     {
       "rank": 2,
-      "name": "huangruiteng/loopx",
-      "language": "Python",
-      "stars": 2059,
-      "forks": 160,
-      "stars_today": 327,
-      "description": "Lightweight loop engineering state kernel for extended-duration AI agent teams with durable goals and executable todos.",
-      "url": "https://github.com/huangruiteng/loopx"
-    },
-    {
-      "rank": 3,
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "language": "TypeScript",
-      "stars": 15002,
-      "forks": 1365,
-      "stars_today": 1891,
-      "description": "Team-level memory hub for AI Agents converting conversations and code into reusable memory assets.",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
-    },
-    {
-      "rank": 4,
-      "name": "donnemartin/system-design-primer",
-      "language": "Python",
-      "stars": 361477,
-      "forks": 57645,
-      "stars_today": 304,
-      "description": "Learn how to design large-scale systems. Prep for the system design interview.",
-      "url": "https://github.com/donnemartin/system-design-primer"
-    },
-    {
-      "rank": 5,
-      "name": "firecrawl/pdf-inspector",
-      "language": "Rust",
-      "stars": 11364,
-      "forks": 755,
-      "stars_today": 1583,
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction.",
-      "url": "https://github.com/firecrawl/pdf-inspector"
-    },
-    {
-      "rank": 6,
-      "name": "esengine/DeepSeek-Reasonix",
-      "language": "Go",
-      "stars": 31545,
-      "forks": 2027,
-      "stars_today": 747,
-      "description": "DeepSeek-native AI coding agent for your terminal.",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix"
-    },
-    {
-      "rank": 7,
       "name": "addyosmani/agent-skills",
       "language": "JavaScript",
-      "stars": 81954,
-      "forks": 8819,
-      "stars_today": 203,
+      "stars": 84500,
+      "forks": 9071,
+      "stars_today": 778,
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills"
     },
     {
-      "rank": 8,
-      "name": "obra/superpowers",
+      "rank": 3,
+      "name": "TapXWorld/ChinaTextbook",
+      "language": "Roff",
+      "stars": 77890,
+      "forks": 17625,
+      "stars_today": 591,
+      "description": "所有小初高、大学PDF教材。",
+      "url": "https://github.com/TapXWorld/ChinaTextbook"
+    },
+    {
+      "rank": 4,
+      "name": "google/skills",
+      "language": "Python",
+      "stars": 16692,
+      "forks": 1353,
+      "stars_today": 481,
+      "description": "Agent Skills for Google products and technologies",
+      "url": "https://github.com/google/skills"
+    },
+    {
+      "rank": 5,
+      "name": "mattpocock/skills",
       "language": "Shell",
-      "stars": 267300,
-      "forks": 23900,
-      "stars_today": 931,
-      "description": "An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers"
+      "stars": 209938,
+      "forks": 18138,
+      "stars_today": 1354,
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "rank": 6,
+      "name": "goauthentik/authentik",
+      "language": "Python",
+      "stars": 23952,
+      "forks": 1836,
+      "stars_today": 467,
+      "description": "The authentication glue you need.",
+      "url": "https://github.com/goauthentik/authentik"
+    },
+    {
+      "rank": 7,
+      "name": "TauricResearch/TradingAgents",
+      "language": "Python",
+      "stars": 96431,
+      "forks": 18647,
+      "stars_today": 126,
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents"
+    },
+    {
+      "rank": 8,
+      "name": "google/guava",
+      "language": "Java",
+      "stars": 51840,
+      "forks": 11180,
+      "stars_today": 93,
+      "description": "Google core libraries for Java",
+      "url": "https://github.com/google/guava"
     },
     {
       "rank": 9,
-      "name": "roboflow/supervision",
-      "language": "Python",
-      "stars": 48891,
-      "forks": 4617,
-      "stars_today": 132,
-      "description": "We write your reusable computer vision tools.",
-      "url": "https://github.com/roboflow/supervision"
+      "name": "LadybirdBrowser/ladybird",
+      "language": "C++",
+      "stars": 64966,
+      "forks": 3104,
+      "stars_today": 79,
+      "description": "Truly independent web browser",
+      "url": "https://github.com/LadybirdBrowser/ladybird"
     },
     {
       "rank": 10,
-      "name": "vercel/next.js",
-      "language": "JavaScript",
-      "stars": 141530,
-      "forks": 31679,
-      "stars_today": 144,
-      "description": "The React Framework",
-      "url": "https://github.com/vercel/next.js"
+      "name": "denoland/celld",
+      "language": "Rust",
+      "stars": 2531,
+      "forks": 71,
+      "stars_today": 432,
+      "description": "self-hosted, distributed Durable Objects",
+      "url": "https://github.com/denoland/celld"
     }
   ]
 }

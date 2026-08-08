@@ -1,14 +1,14 @@
-# GitHub Trending - 2026-08-05
+# GitHub Trending - 2026-08-08
 
 | # | Repository | Language | Stars | Stars today | Description |
 |--:|------------|----------|------:|------------:|-------------|
-| 1 | [cloudflare/computer](https://github.com/cloudflare/computer) | TypeScript | 2,745 | +796 | Give your agent a computer 👾 |
-| 2 | [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | Python | 2,059 | +327 | Lightweight loop engineering state kernel for extended-duration AI agent teams with durable goals and executable todos. |
-| 3 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 15,002 | +1,891 | Team-level memory hub for AI Agents converting conversations and code into reusable memory assets. |
-| 4 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | 361,477 | +304 | Learn how to design large-scale systems. Prep for the system design interview. |
-| 5 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | 11,364 | +1,583 | Fast Rust library for PDF inspection, classification, and text extraction. |
-| 6 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | Go | 31,545 | +747 | DeepSeek-native AI coding agent for your terminal. |
-| 7 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 81,954 | +203 | Production-grade engineering skills for AI coding agents. |
-| 8 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 267,300 | +931 | An agentic skills framework & software development methodology that works. |
-| 9 | [roboflow/supervision](https://github.com/roboflow/supervision) | Python | 48,891 | +132 | We write your reusable computer vision tools. |
-| 10 | [vercel/next.js](https://github.com/vercel/next.js) | JavaScript | 141,530 | +144 | The React Framework |
+| 1 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | 8,751 | +2,483 | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
+| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 84,500 | +778 | Production-grade engineering skills for AI coding agents. |
+| 3 | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | 77,890 | +591 | 所有小初高、大学PDF教材。 |
+| 4 | [google/skills](https://github.com/google/skills) | Python | 16,692 | +481 | Agent Skills for Google products and technologies |
+| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 209,938 | +1,354 | Skills for Real Engineers. Straight from my .agents directory. |
+| 6 | [goauthentik/authentik](https://github.com/goauthentik/authentik) | Python | 23,952 | +467 | The authentication glue you need. |
+| 7 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 96,431 | +126 | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 8 | [google/guava](https://github.com/google/guava) | Java | 51,840 | +93 | Google core libraries for Java |
+| 9 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | 64,966 | +79 | Truly independent web browser |
+| 10 | [denoland/celld](https://github.com/denoland/celld) | Rust | 2,531 | +432 | self-hosted, distributed Durable Objects |
