@@ -1,106 +1,106 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-14",
   "source": "https://github.com/trending",
   "repos": [
     {
       "rank": 1,
-      "name": "PrimeIntellect-ai/prime-agent",
-      "language": "TypeScript",
-      "stars": 8751,
-      "forks": 803,
-      "stars_today": 2483,
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "stars": 17137,
+      "forks": 1018,
+      "stars_today": 3651
     },
     {
       "rank": 2,
-      "name": "addyosmani/agent-skills",
-      "language": "JavaScript",
-      "stars": 84500,
-      "forks": 9071,
-      "stars_today": 778,
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "url": "https://github.com/addyosmani/agent-skills"
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "stars": 5568,
+      "forks": 369,
+      "stars_today": 661
     },
     {
       "rank": 3,
-      "name": "TapXWorld/ChinaTextbook",
-      "language": "Roff",
-      "stars": 77890,
-      "forks": 17625,
-      "stars_today": 591,
-      "description": "所有小初高、大学PDF教材。",
-      "url": "https://github.com/TapXWorld/ChinaTextbook"
+      "name": "megadose/holehe",
+      "url": "https://github.com/megadose/holehe",
+      "description": "Email verification tool that checks if addresses are registered across multiple platforms",
+      "language": "Python",
+      "stars": 12818,
+      "forks": 1715,
+      "stars_today": 427
     },
     {
       "rank": 4,
-      "name": "google/skills",
-      "language": "Python",
-      "stars": 16692,
-      "forks": 1353,
-      "stars_today": 481,
-      "description": "Agent Skills for Google products and technologies",
-      "url": "https://github.com/google/skills"
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM",
+      "language": "Rust",
+      "stars": 3007,
+      "forks": 303,
+      "stars_today": 435
     },
     {
       "rank": 5,
-      "name": "mattpocock/skills",
-      "language": "Shell",
-      "stars": 209938,
-      "forks": 18138,
-      "stars_today": 1354,
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "url": "https://github.com/mattpocock/skills"
+      "name": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "language": "Python",
+      "stars": 20917,
+      "forks": 3339,
+      "stars_today": 292
     },
     {
       "rank": 6,
-      "name": "goauthentik/authentik",
-      "language": "Python",
-      "stars": 23952,
-      "forks": 1836,
-      "stars_today": 467,
-      "description": "The authentication glue you need.",
-      "url": "https://github.com/goauthentik/authentik"
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing logged-in browser state with AI agents",
+      "language": "JavaScript",
+      "stars": 10324,
+      "forks": 525,
+      "stars_today": 153
     },
     {
       "rank": 7,
-      "name": "TauricResearch/TradingAgents",
-      "language": "Python",
-      "stars": 96431,
-      "forks": 18647,
-      "stars_today": 126,
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "url": "https://github.com/TauricResearch/TradingAgents"
+      "name": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "description": "Open-source All in One AI agent workspace. Run any agent across tools, apps, browser, and files, with shared memory.",
+      "language": "TypeScript",
+      "stars": 7249,
+      "forks": 634,
+      "stars_today": 769
     },
     {
       "rank": 8,
-      "name": "google/guava",
-      "language": "Java",
-      "stars": 51840,
-      "forks": 11180,
-      "stars_today": 93,
-      "description": "Google core libraries for Java",
-      "url": "https://github.com/google/guava"
+      "name": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": 128471,
+      "forks": 11480,
+      "stars_today": 1147
     },
     {
       "rank": 9,
-      "name": "LadybirdBrowser/ladybird",
-      "language": "C++",
-      "stars": 64966,
-      "forks": 3104,
-      "stars_today": 79,
-      "description": "Truly independent web browser",
-      "url": "https://github.com/LadybirdBrowser/ladybird"
+      "name": "lightningpixel/modly",
+      "url": "https://github.com/lightningpixel/modly",
+      "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+      "language": "TypeScript",
+      "stars": 5899,
+      "forks": 599,
+      "stars_today": 580
     },
     {
       "rank": 10,
-      "name": "denoland/celld",
-      "language": "Rust",
-      "stars": 2531,
-      "forks": 71,
-      "stars_today": 432,
-      "description": "self-hosted, distributed Durable Objects",
-      "url": "https://github.com/denoland/celld"
+      "name": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation engine that fuses cutting-edge RAG with Agent capabilities",
+      "language": "Go",
+      "stars": 88384,
+      "forks": 10381,
+      "stars_today": 474
     }
   ]
 }
