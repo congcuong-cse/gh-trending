@@ -1,106 +1,106 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-20",
   "source": "https://github.com/trending",
   "repos": [
     {
       "rank": 1,
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "language": "HTML",
-      "stars": 17137,
-      "forks": 1018,
-      "stars_today": 3651
+      "name": "modular/modular",
+      "url": "https://github.com/modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "language": "Mojo",
+      "stars": 27884,
+      "forks": 2998,
+      "stars_today": 340
     },
     {
       "rank": 2,
-      "name": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "language": "Python",
-      "stars": 5568,
-      "forks": 369,
-      "stars_today": 661
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 226301,
+      "forks": 19404,
+      "stars_today": 2267
     },
     {
       "rank": 3,
-      "name": "megadose/holehe",
-      "url": "https://github.com/megadose/holehe",
-      "description": "Email verification tool that checks if addresses are registered across multiple platforms",
-      "language": "Python",
-      "stars": 12818,
-      "forks": 1715,
-      "stars_today": 427
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "stars": 11768,
+      "forks": 321,
+      "stars_today": 1540
     },
     {
       "rank": 4,
-      "name": "macro-inc/macro",
-      "url": "https://github.com/macro-inc/macro",
-      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM",
-      "language": "Rust",
-      "stars": 3007,
-      "forks": 303,
-      "stars_today": 435
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 274901,
+      "forks": 24601,
+      "stars_today": 749
     },
     {
       "rank": 5,
-      "name": "smicallef/spiderfoot",
-      "url": "https://github.com/smicallef/spiderfoot",
-      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-      "language": "Python",
-      "stars": 20917,
-      "forks": 3339,
-      "stars_today": 292
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 4051,
+      "forks": 338,
+      "stars_today": 473
     },
     {
       "rank": 6,
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run browser automation, built for sharing logged-in browser state with AI agents",
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications",
       "language": "JavaScript",
-      "stars": 10324,
-      "forks": 525,
-      "stars_today": 153
+      "stars": 66601,
+      "forks": 12814,
+      "stars_today": 855
     },
     {
       "rank": 7,
-      "name": "holaboss-ai/holaOS",
-      "url": "https://github.com/holaboss-ai/holaOS",
-      "description": "Open-source All in One AI agent workspace. Run any agent across tools, apps, browser, and files, with shared memory.",
-      "language": "TypeScript",
-      "stars": 7249,
-      "forks": 634,
-      "stars_today": 769
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 3564,
+      "forks": 280,
+      "stars_today": 335
     },
     {
       "rank": 8,
-      "name": "github/spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "description": "Toolkit to help you get started with Spec-Driven Development",
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars": 128471,
-      "forks": 11480,
-      "stars_today": 1147
+      "stars": 112860,
+      "forks": 17104,
+      "stars_today": 2774
     },
     {
       "rank": 9,
-      "name": "lightningpixel/modly",
-      "url": "https://github.com/lightningpixel/modly",
-      "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
-      "language": "TypeScript",
-      "stars": 5899,
-      "forks": 599,
-      "stars_today": 580
+      "name": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "stars": 1375,
+      "forks": 251,
+      "stars_today": 66
     },
     {
       "rank": 10,
-      "name": "infiniflow/ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation engine that fuses cutting-edge RAG with Agent capabilities",
-      "language": "Go",
-      "stars": 88384,
-      "forks": 10381,
-      "stars_today": 474
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars": 3102,
+      "forks": 350,
+      "stars_today": 517
     }
   ]
 }
