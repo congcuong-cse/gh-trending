@@ -1,106 +1,106 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "source": "https://github.com/trending",
   "repos": [
     {
       "rank": 1,
-      "name": "modular/modular",
-      "url": "https://github.com/modular/modular",
-      "description": "The Modular Platform (includes MAX & Mojo)",
-      "language": "Mojo",
-      "stars": 27884,
-      "forks": 2998,
-      "stars_today": 340
-    },
-    {
-      "rank": 2,
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars": 226301,
-      "forks": 19404,
-      "stars_today": 2267
+      "stars": 229331,
+      "forks": 19603,
+      "stars_today": 3368
+    },
+    {
+      "rank": 2,
+      "name": "mahlernim/google-timeline-visualizer",
+      "url": "https://github.com/mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "language": "Kotlin",
+      "stars": 2193,
+      "forks": 251,
+      "stars_today": 1040
     },
     {
       "rank": 3,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": 113845,
+      "forks": 17272,
+      "stars_today": 1187
+    },
+    {
+      "rank": 4,
       "name": "AprilNEA/OpenLogi",
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars": 11768,
-      "forks": 321,
-      "stars_today": 1540
+      "stars": 12841,
+      "forks": 349,
+      "stars_today": 1372
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more.",
+      "language": "Python",
+      "stars": 38273,
+      "forks": 3232,
+      "stars_today": 334
+    },
+    {
+      "rank": 6,
+      "name": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "language": "Go",
+      "stars": 110369,
+      "forks": 13740,
+      "stars_today": 65
+    },
+    {
+      "rank": 7,
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 274901,
-      "forks": 24601,
-      "stars_today": 749
+      "stars": 275622,
+      "forks": 24642,
+      "stars_today": 789
     },
     {
-      "rank": 5,
+      "rank": 8,
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications.",
+      "language": "JavaScript",
+      "stars": 67408,
+      "forks": 12867,
+      "stars_today": 918
+    },
+    {
+      "rank": 9,
       "name": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars": 4051,
-      "forks": 338,
-      "stars_today": 473
-    },
-    {
-      "rank": 6,
-      "name": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications",
-      "language": "JavaScript",
-      "stars": 66601,
-      "forks": 12814,
-      "stars_today": 855
-    },
-    {
-      "rank": 7,
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars": 3564,
-      "forks": 280,
-      "stars_today": 335
-    },
-    {
-      "rank": 8,
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "language": "Python",
-      "stars": 112860,
-      "forks": 17104,
-      "stars_today": 2774
-    },
-    {
-      "rank": 9,
-      "name": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "stars": 1375,
-      "forks": 251,
-      "stars_today": 66
+      "stars": 4376,
+      "forks": 366,
+      "stars_today": 391
     },
     {
       "rank": 10,
-      "name": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "description": "local multi-agent harness",
-      "language": "TypeScript",
-      "stars": 3102,
-      "forks": 350,
-      "stars_today": 517
+      "name": "modular/modular",
+      "url": "https://github.com/modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "language": "Mojo",
+      "stars": 28670,
+      "forks": 3053,
+      "stars_today": 905
     }
   ]
 }
