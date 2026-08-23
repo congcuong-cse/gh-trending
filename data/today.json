@@ -1,106 +1,106 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-23",
   "source": "https://github.com/trending",
   "repos": [
     {
       "rank": 1,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars": 229331,
-      "forks": 19603,
-      "stars_today": 3368
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": 115095,
+      "forks": 17600,
+      "stars_today": 2729
     },
     {
       "rank": 2,
-      "name": "mahlernim/google-timeline-visualizer",
-      "url": "https://github.com/mahlernim/google-timeline-visualizer",
-      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
-      "language": "Kotlin",
-      "stars": 2193,
-      "forks": 251,
-      "stars_today": 1040
+      "name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Collection of 470+ prompt engineering examples and 20+ industrial templates for GPT-Image2",
+      "language": "JavaScript",
+      "stars": 12656,
+      "forks": 1400,
+      "stars_today": 440
     },
     {
       "rank": 3,
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "language": "Python",
-      "stars": 113845,
-      "forks": 17272,
-      "stars_today": 1187
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory",
+      "language": "Shell",
+      "stars": 233769,
+      "forks": 19900,
+      "stars_today": 2448
     },
     {
       "rank": 4,
-      "name": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "description": "A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "language": "Rust",
-      "stars": 12841,
-      "forks": 349,
-      "stars_today": 1372
+      "name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars": 29061,
+      "forks": 3000,
+      "stars_today": 814
     },
     {
       "rank": 5,
-      "name": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more.",
-      "language": "Python",
-      "stars": 38273,
-      "forks": 3232,
-      "stars_today": 334
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "A native, local-first alternative to Logitech Options+, written in Rust - remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "stars": 14870,
+      "forks": 398,
+      "stars_today": 1008
     },
     {
       "rank": 6,
-      "name": "microsoft/TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "language": "Go",
-      "stars": 110369,
-      "forks": 13740,
-      "stars_today": 65
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": 30066,
+      "forks": 3800,
+      "stars_today": 349
     },
     {
       "rank": 7,
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars": 275622,
-      "forks": 24642,
-      "stars_today": 789
+      "name": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "description": "A local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "language": "TypeScript",
+      "stars": 2323,
+      "forks": 268,
+      "stars_today": 49
     },
     {
       "rank": 8,
-      "name": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications.",
-      "language": "JavaScript",
-      "stars": 67408,
-      "forks": 12867,
-      "stars_today": 918
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Access Claude Code, Codex, and other models for free with 1.3B+ complimentary tokens",
+      "language": "Python",
+      "stars": 47913,
+      "forks": 7900,
+      "stars_today": 1040
     },
     {
       "rank": 9,
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "stars": 4376,
-      "forks": 366,
-      "stars_today": 391
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Personal AI intelligence system featuring local memory, agent orchestration, and research capabilities",
+      "language": "Rust",
+      "stars": 36698,
+      "forks": 3700,
+      "stars_today": 106
     },
     {
       "rank": 10,
-      "name": "modular/modular",
-      "url": "https://github.com/modular/modular",
-      "description": "The Modular Platform (includes MAX & Mojo)",
-      "language": "Mojo",
-      "stars": 28670,
-      "forks": 3053,
-      "stars_today": 905
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 242526,
+      "forks": 36700,
+      "stars_today": 427
     }
   ]
 }

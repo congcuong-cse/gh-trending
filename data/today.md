@@ -1,14 +1,14 @@
-# GitHub Trending - 2026-08-21
+# GitHub Trending - 2026-08-23
 
 | # | Repository | Language | Stars | Stars today | Description |
 |--:|------------|----------|------:|------------:|-------------|
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 229,331 | +3,368 | Skills for Real Engineers. Straight from my .agents directory. |
-| 2 | [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) | Kotlin | 2,193 | +1,040 | Visualize your year in travel using your Google Location History (Timeline) data |
-| 3 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 113,845 | +1,187 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
-| 4 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | 12,841 | +1,372 | A native, local-first alternative to Logitech Options+, written in Rust — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
-| 5 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 38,273 | +334 | PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more. |
-| 6 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | Go | 110,369 | +65 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
-| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 275,622 | +789 | An agentic skills framework & software development methodology that works. |
-| 8 | [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 67,408 | +918 | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications. |
-| 9 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 4,376 | +391 | Cursor plugin specification and official plugins |
-| 10 | [modular/modular](https://github.com/modular/modular) | Mojo | 28,670 | +905 | The Modular Platform (includes MAX & Mojo) |
+| 1 | [openai/codex](https://github.com/openai/codex) | Rust | 115,095 | +2,729 | Lightweight coding agent that runs in your terminal |
+| 2 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | 12,656 | +440 | Collection of 470+ prompt engineering examples and 20+ industrial templates for GPT-Image2 |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 233,769 | +2,448 | Skills for Real Engineers. Straight from my .agents directory |
+| 4 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | 29,061 | +814 | Beautiful, Modern & Opinionated Linux |
+| 5 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | 14,870 | +1,008 | A native, local-first alternative to Logitech Options+, written in Rust - remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
+| 6 | [block/buzz](https://github.com/block/buzz) | Rust | 30,066 | +349 | A hive mind communication platform |
+| 7 | [apache/maka](https://github.com/apache/maka) | TypeScript | 2,323 | +49 | A local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. |
+| 8 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 47,913 | +1,040 | Access Claude Code, Codex, and other models for free with 1.3B+ complimentary tokens |
+| 9 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 36,698 | +106 | Personal AI intelligence system featuring local memory, agent orchestration, and research capabilities |
+| 10 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 242,526 | +427 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
