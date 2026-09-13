@@ -1,106 +1,106 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-09-13",
   "source": "https://github.com/trending",
   "repos": [
     {
       "rank": 1,
-      "name": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "stars": 115095,
-      "forks": 17600,
-      "stars_today": 2729
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model.",
+      "language": "C",
+      "stars": 29688,
+      "forks": 3232,
+      "stars_today": 960
     },
     {
       "rank": 2,
-      "name": "freestylefly/awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Collection of 470+ prompt engineering examples and 20+ industrial templates for GPT-Image2",
-      "language": "JavaScript",
-      "stars": 12656,
-      "forks": 1400,
-      "stars_today": 440
+      "name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM)",
+      "language": "TypeScript",
+      "stars": 4992,
+      "forks": 937,
+      "stars_today": 58
     },
     {
       "rank": 3,
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory",
-      "language": "Shell",
-      "stars": 233769,
-      "forks": 19900,
-      "stars_today": 2448
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 31766,
+      "forks": 6377,
+      "stars_today": 2898
     },
     {
       "rank": 4,
-      "name": "basecamp/omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "stars": 29061,
-      "forks": 3000,
-      "stars_today": 814
+      "name": "tech-leads-club/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "stars": 5608,
+      "forks": 499,
+      "stars_today": 215
     },
     {
       "rank": 5,
-      "name": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "description": "A native, local-first alternative to Logitech Options+, written in Rust - remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "language": "Rust",
-      "stars": 14870,
-      "forks": 398,
-      "stars_today": 1008
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat.",
+      "language": "TypeScript",
+      "stars": 2152,
+      "forks": 587,
+      "stars_today": 444
     },
     {
       "rank": 6,
-      "name": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "stars": 30066,
-      "forks": 3800,
-      "stars_today": 349
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files.",
+      "language": "Python",
+      "stars": 58376,
+      "forks": 7348,
+      "stars_today": 383
     },
     {
       "rank": 7,
-      "name": "apache/maka",
-      "url": "https://github.com/apache/maka",
-      "description": "A local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "language": "TypeScript",
-      "stars": 2323,
-      "forks": 268,
-      "stars_today": 49
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from various AI platforms, updated regularly.",
+      "language": "JavaScript",
+      "stars": 65982,
+      "forks": 10797,
+      "stars_today": 727
     },
     {
       "rank": 8,
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Access Claude Code, Codex, and other models for free with 1.3B+ complimentary tokens",
-      "language": "Python",
-      "stars": 47913,
-      "forks": 7900,
-      "stars_today": 1040
+      "name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars": 23926,
+      "forks": 3093,
+      "stars_today": 613
     },
     {
       "rank": 9,
-      "name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Personal AI intelligence system featuring local memory, agent orchestration, and research capabilities",
-      "language": "Rust",
-      "stars": 36698,
-      "forks": 3700,
-      "stars_today": 106
+      "name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "stars": 7703,
+      "forks": 862,
+      "stars_today": 500
     },
     {
       "rank": 10,
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars": 242526,
-      "forks": 36700,
-      "stars_today": 427
+      "name": "yuliskov/SmartTube",
+      "url": "https://github.com/yuliskov/SmartTube",
+      "description": "Browse media content with your own rules on Android TV",
+      "language": "Java",
+      "stars": 33422,
+      "forks": 2031,
+      "stars_today": 238
     }
   ]
 }
