@@ -1,56 +1,56 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-25",
   "source": "https://github.com/trending",
   "repos": [
     {
       "rank": 1,
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "stars": 36907,
-      "forks": 5374,
-      "stars_today": 665
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 84785,
+      "forks": 15221,
+      "stars_today": 1853
     },
     {
       "rank": 2,
-      "name": "google/ax",
-      "url": "https://github.com/google/ax",
-      "description": "Google's open agentic orchestration runtime",
-      "language": "Go",
-      "stars": 8979,
-      "forks": 428,
-      "stars_today": 1542
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 36900,
+      "forks": 4152,
+      "stars_today": 62
     },
     {
       "rank": 3,
-      "name": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
+      "name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars": 31471,
-      "forks": 3574,
-      "stars_today": 393
+      "stars": 29743,
+      "forks": 3144,
+      "stars_today": 1652
     },
     {
       "rank": 4,
-      "name": "BuilderIO/agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agentic apps",
-      "language": "TypeScript",
-      "stars": 6509,
-      "forks": 584,
-      "stars_today": 135
-    },
-    {
-      "rank": 5,
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 290654,
-      "forks": 26008,
-      "stars_today": 485
+      "stars": 291634,
+      "forks": 26108,
+      "stars_today": 465
+    },
+    {
+      "rank": 5,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 269696,
+      "forks": 22724,
+      "stars_today": 588
     },
     {
       "rank": 6,
@@ -58,49 +58,49 @@
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
-      "stars": 16285,
-      "forks": 1432,
-      "stars_today": 1140
+      "stars": 18386,
+      "forks": 1562,
+      "stars_today": 1048
     },
     {
       "rank": 7,
-      "name": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "language": "TypeScript",
-      "stars": 18785,
-      "forks": 2283,
-      "stars_today": 379
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 178276,
+      "forks": 21106,
+      "stars_today": 231
     },
     {
       "rank": 8,
-      "name": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "stars": 3466,
-      "forks": 410,
-      "stars_today": 560
+      "name": "androoAGI/starnet",
+      "url": "https://github.com/androoAGI/starnet",
+      "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+      "language": "JavaScript",
+      "stars": 451,
+      "forks": 87,
+      "stars_today": 118
     },
     {
       "rank": 9,
-      "name": "strands-agents/harness-sdk",
-      "url": "https://github.com/strands-agents/harness-sdk",
-      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "name": "derv82/wifit3",
+      "url": "https://github.com/derv82/wifit3",
+      "description": "Wifite but USB-only & cross-platform.",
       "language": "Python",
-      "stars": 7821,
-      "forks": 1199,
-      "stars_today": 96
+      "stars": 891,
+      "forks": 85,
+      "stars_today": 168
     },
     {
       "rank": 10,
-      "name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "language": "Python",
-      "stars": 49889,
-      "forks": 4599,
-      "stars_today": 41
+      "name": "kelseyhightower/kubernetes-the-hard-way",
+      "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+      "description": "Bootstrap Kubernetes the hard way. No scripts.",
+      "language": "",
+      "stars": 50115,
+      "forks": 15916,
+      "stars_today": 105
     }
   ]
 }
